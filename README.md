@@ -2,7 +2,7 @@
 
 ## Demo: http://rihana-note.ethiodevelopers.com/
 
-## Author: Akele Belay
+## Author: Rihana Abdu
 
 ## Install dependencies for server 
 ### `npm install`
